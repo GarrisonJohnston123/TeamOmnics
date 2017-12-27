@@ -36,6 +36,7 @@ For simulated robot:
 ./baxter.sh sim
 ```
 3. Start Baxter Gazebo simulator or enable physical robot
+
 For physical robot: 
 ```
 roscore
